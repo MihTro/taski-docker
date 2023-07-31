@@ -61,4 +61,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: mxstrv/taski_backend:latest
+          tags: mihtro/taski_backend:latest
