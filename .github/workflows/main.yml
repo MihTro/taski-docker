@@ -62,3 +62,4 @@ jobs:
           context: ./backend/
           push: true
           tags: mihtro/taski_backend:latest
+
